@@ -9,7 +9,7 @@
 
 ## ‼️ 규칙
 
-- 매주 5문제 정도를 풀고 올립니다. 시간이 남는다면 더 풀어도 좋아요
+- 매주 6문제 정도를 풀고 올립니다. 시간이 남는다면 더 풀어도 좋아요
 - 일주일에 1번 대면/비대면으로 진행합니다.
 - 스터디 진행 시에는 서로 푼 문제를 설명합니다.
 - 추가로 풀어본 문제 중 추천할만한 문제가 있다면 공유합니다.
@@ -51,7 +51,7 @@
 
 [foldering] : 폴더 구조 변경
 
-- Ex) [feat] : 1주차 2739번_HelloWorld_백준.py
+- Ex) [feat] : 1주차 사칙연산 문제풀이 추가
 
 &nbsp;
 &nbsp;
@@ -70,29 +70,3 @@
 
 &nbsp;
 &nbsp;
-
-## EX) 📍n주차 (11/? ~ 11/?)
-- 정경
-    - [사칙연산](https://www.acmicpc.net/problem/10869)
-    - [??!](https://www.acmicpc.net/problem/10926)
-    - [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
-
-- 욱
-    - [사칙연산](https://www.acmicpc.net/problem/10869)
-    - [??!](https://www.acmicpc.net/problem/10926)
-    - [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
- 
-- 민우
-    - [사칙연산](https://www.acmicpc.net/problem/10869)
-    - [??!](https://www.acmicpc.net/problem/10926)
-    - [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
-
-## 📍1주차 (11/3 ~ 11/9)
-- 정경
-    - [사칙연산](https://www.acmicpc.net/problem/10869)
-
-- 욱
-    - [사칙연산](https://www.acmicpc.net/problem/10869)
- 
-- 민우
-    - [사칙연산](https://www.acmicpc.net/problem/10869)
